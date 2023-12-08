@@ -1,0 +1,22 @@
+{
+  "name": "introduction-threesjs",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "@onemorestudio/eventemitterjs": "^1.0.0",
+    "dat.gui": "^0.7.9",
+    "howler": "^2.2.4",
+    "speak-tts": "^2.0.8",
+    "three": "^0.159.0",
+    "tween.js": "^16.6.0"
+  }
+}
